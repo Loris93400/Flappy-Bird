@@ -1,0 +1,82 @@
+{"frames": [
+	{
+		"filename": "number00",
+		"frame": {"x":10,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number01",
+		"frame": {"x":78,"y":10,"w":32,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":72},
+		"sourceSize": {"w":32,"h":72}
+	},
+	{
+		"filename": "number02",
+		"frame": {"x":130,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number03",
+		"frame": {"x":198,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number04",
+		"frame": {"x":266,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number05",
+		"frame": {"x":334,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number06",
+		"frame": {"x":402,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number07",
+		"frame": {"x":470,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number08",
+		"frame": {"x":538,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	},
+	{
+		"filename": "number09",
+		"frame": {"x":606,"y":10,"w":48,"h":72},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":72},
+		"sourceSize": {"w":48,"h":72}
+	}
+]}

@@ -1,0 +1,7 @@
+body {
+	padding: 0; margin: 0;
+}
+#flappyBird {
+	margin: auto;
+	display: inline-block;
+}
